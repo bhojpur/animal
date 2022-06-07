@@ -1,2 +1,5 @@
-# animal
-The Bhojpur Animal is a software-as-a-service product used as a Diagnosis Engine based on Bhojpur.NET Platform for application delivery.
+# Bhojpur Animal - Diagnosis Engine
+
+The `Bhojpur Animal` is an artificial intelligence enabled diagnosis engine applied within
+the [Bhojpur.NET Platform](https://github.com/bhojpur/animal/) ecosystem for delivery of
+distributed `applications` or `services`.
